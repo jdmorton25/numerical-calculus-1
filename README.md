@@ -2,8 +2,8 @@
 Numerical Calculus 1st term
 
 
-<embed src="https://psv4.userapi.com/c520036/u135225824/docs/d14/68bee52cd5d5/test.pdf?extra=59iqfmPmTGKtL14azpFP0S_g78_FQj01FgNUTAWohl1iQ9jQgTqb3DfgE0QvYr9e-WzZjZ9qxFgXr3yzShMg0sNYe9JOOWe4KyZrjkSfCj8hyfv_uOGlPvkTMpZWdveixFJSRh-HyJ0rmaF6rWTW9Cya" type="application/pdf" width="100%" height="600px" />
-
+Задание 1.  Приближение функций и численное дифференцирование.
+![1](https://user-images.githubusercontent.com/9623983/105612226-1c0d0f80-5dd4-11eb-8aef-1668edb51754.png)
 
 
 
